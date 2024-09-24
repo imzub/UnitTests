@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2 R&D\\Unit Tests\\Unit Tests\\ClassLibrary\\ClassLibrary.csproj": {}
+    "D:\\2 R&D\\Repo\\UnitTests\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "D:\\2 R&D\\Unit Tests\\Unit Tests\\ClassLibrary\\ClassLibrary.csproj": {
+    "D:\\2 R&D\\Repo\\UnitTests\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2 R&D\\Unit Tests\\Unit Tests\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "D:\\2 R&D\\Repo\\UnitTests\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "D:\\2 R&D\\Unit Tests\\Unit Tests\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "D:\\2 R&D\\Repo\\UnitTests\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\zubai\\.nuget\\packages\\",
-        "outputPath": "D:\\2 R&D\\Unit Tests\\Unit Tests\\ClassLibrary\\obj\\",
+        "outputPath": "D:\\2 R&D\\Repo\\UnitTests\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

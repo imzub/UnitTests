@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2 R\u0026D\\Unit Tests\\Unit Tests\\",
+  "WorkspaceRootPath": "D:\\2 R\u0026D\\Repo\\UnitTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests.csproj|d:\\2 r\u0026d\\unit tests\\unit tests\\unit tests\\fincalctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests.csproj|solutionrelative:unit tests\\fincalctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3707641F-9E7C-4BB9-A48F-4C5D74B61556}|ClassLibrary\\ClassLibrary.csproj|d:\\2 r\u0026d\\unit tests\\unit tests\\classlibrary\\financialcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3707641F-9E7C-4BB9-A48F-4C5D74B61556}|ClassLibrary\\ClassLibrary.csproj|d:\\2 r\u0026d\\repo\\unittests\\classlibrary\\financialcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3707641F-9E7C-4BB9-A48F-4C5D74B61556}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\financialcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FinancialCalculation.cs",
-              "DocumentMoniker": "D:\\2 R\u0026D\\Unit Tests\\Unit Tests\\ClassLibrary\\FinancialCalculation.cs",
+              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\ClassLibrary\\FinancialCalculation.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\FinancialCalculation.cs",
-              "ToolTip": "D:\\2 R\u0026D\\Unit Tests\\Unit Tests\\ClassLibrary\\FinancialCalculation.cs",
+              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\ClassLibrary\\FinancialCalculation.cs",
               "RelativeToolTip": "ClassLibrary\\FinancialCalculation.cs",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAmwLcAAAAUAAAA",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAmwLsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T12:09:41.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FinCalcTests.cs",
-              "DocumentMoniker": "D:\\2 R\u0026D\\Unit Tests\\Unit Tests\\Unit Tests\\FinCalcTests.cs",
-              "RelativeDocumentMoniker": "Unit Tests\\FinCalcTests.cs",
-              "ToolTip": "D:\\2 R\u0026D\\Unit Tests\\Unit Tests\\Unit Tests\\FinCalcTests.cs*",
-              "RelativeToolTip": "Unit Tests\\FinCalcTests.cs*",
-              "ViewState": "AQIAACwBAAAAAAAAAAAawD0BAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:40:53.83Z",
               "EditorCaption": ""
             }
           ]

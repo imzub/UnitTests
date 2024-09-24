@@ -1004,11 +1004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2 R&D\\Unit Tests\\Unit Tests\\Unit Tests\\Unit Tests.csproj",
-      "projectName": "Unit Tests",
-      "projectPath": "D:\\2 R&D\\Unit Tests\\Unit Tests\\Unit Tests\\Unit Tests.csproj",
+      "projectUniqueName": "D:\\2 R&D\\Repo\\UnitTests\\Unit Tests\\Unit Tests - NUnit.csproj",
+      "projectName": "Unit Tests - NUnit",
+      "projectPath": "D:\\2 R&D\\Repo\\UnitTests\\Unit Tests\\Unit Tests - NUnit.csproj",
       "packagesPath": "C:\\Users\\zubai\\.nuget\\packages\\",
-      "outputPath": "D:\\2 R&D\\Unit Tests\\Unit Tests\\Unit Tests\\obj\\",
+      "outputPath": "D:\\2 R&D\\Repo\\UnitTests\\Unit Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1030,8 +1030,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\2 R&D\\Unit Tests\\Unit Tests\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "D:\\2 R&D\\Unit Tests\\Unit Tests\\ClassLibrary\\ClassLibrary.csproj"
+            "D:\\2 R&D\\Repo\\UnitTests\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "D:\\2 R&D\\Repo\\UnitTests\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }
