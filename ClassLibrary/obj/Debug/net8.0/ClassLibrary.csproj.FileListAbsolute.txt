@@ -9,3 +9,15 @@ D:\2 R&D\Unit Tests\Unit Tests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
 D:\2 R&D\Unit Tests\Unit Tests\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
 D:\2 R&D\Unit Tests\Unit Tests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
 D:\2 R&D\Unit Tests\Unit Tests\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+D:\2 R&D\Repo\UnitTests\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+D:\2 R&D\Repo\UnitTests\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+D:\2 R&D\Repo\UnitTests\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+D:\2 R&D\Repo\UnitTests\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
