@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\2 R\u0026D\\Repo\\UnitTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit tests\\unit tests - nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|solutionrelative:unit tests\\unit tests - nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8031352-7433-4F1F-B71C-2E688E65528E}|Unit Test - xUnit\\Unit Test - xUnit.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit test - xunit\\unit test - xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8031352-7433-4F1F-B71C-2E688E65528E}|Unit Test - xUnit\\Unit Test - xUnit.csproj|solutionrelative:unit test - xunit\\unit test - xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit tests\\unit tests - nunit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|solutionrelative:unit tests\\unit tests - nunit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{3707641F-9E7C-4BB9-A48F-4C5D74B61556}|ClassLibrary\\ClassLibrary.csproj|d:\\2 r\u0026d\\repo\\unittests\\classlibrary\\financialcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3707641F-9E7C-4BB9-A48F-4C5D74B61556}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\financialcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8031352-7433-4F1F-B71C-2E688E65528E}|Unit Test - xUnit\\Unit Test - xUnit.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit test - xunit\\financialcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8031352-7433-4F1F-B71C-2E688E65528E}|Unit Test - xUnit\\Unit Test - xUnit.csproj|solutionrelative:unit test - xunit\\financialcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit tests\\fincalctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|solutionrelative:unit tests\\fincalctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit tests\\unit tests - nunit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|solutionrelative:unit tests\\unit tests - nunit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63B9048A-BAFF-4C8B-95DF-DF3CD12BF1A6}|Unit Test - MSTest\\Unit Test - MSTest.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit test - mstest\\financialcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63B9048A-BAFF-4C8B-95DF-DF3CD12BF1A6}|Unit Test - MSTest\\Unit Test - MSTest.csproj|solutionrelative:unit test - mstest\\financialcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3707641F-9E7C-4BB9-A48F-4C5D74B61556}|ClassLibrary\\ClassLibrary.csproj|d:\\2 r\u0026d\\repo\\unittests\\classlibrary\\financialcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3707641F-9E7C-4BB9-A48F-4C5D74B61556}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\financialcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\FinCalcTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unit Tests\\FinCalcTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit tests\\unit tests - nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BECC9F05-8362-4FED-B28E-D9B7A2EA4582}|Unit Tests\\Unit Tests - NUnit.csproj|solutionrelative:unit tests\\unit tests - nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031352-7433-4F1F-B71C-2E688E65528E}|Unit Test - xUnit\\Unit Test - xUnit.csproj|d:\\2 r\u0026d\\repo\\unittests\\unit test - xunit\\unit test - xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8031352-7433-4F1F-B71C-2E688E65528E}|Unit Test - xUnit\\Unit Test - xUnit.csproj|solutionrelative:unit test - xunit\\unit test - xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,20 +37,61 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 193,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Unit Test - xUnit",
-              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - xUnit\\Unit Test - xUnit.csproj",
-              "RelativeDocumentMoniker": "Unit Test - xUnit\\Unit Test - xUnit.csproj",
-              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - xUnit\\Unit Test - xUnit.csproj",
-              "RelativeToolTip": "Unit Test - xUnit\\Unit Test - xUnit.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Title": "FinancialCalculatorTests.cs",
+              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - xUnit\\FinancialCalculatorTests.cs",
+              "RelativeDocumentMoniker": "Unit Test - xUnit\\FinancialCalculatorTests.cs",
+              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - xUnit\\FinancialCalculatorTests.cs",
+              "RelativeToolTip": "Unit Test - xUnit\\FinancialCalculatorTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:26:54.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinancialCalculatorTests.cs",
+              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - MSTest\\FinancialCalculatorTests.cs",
+              "RelativeDocumentMoniker": "Unit Test - MSTest\\FinancialCalculatorTests.cs",
+              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - MSTest\\FinancialCalculatorTests.cs",
+              "RelativeToolTip": "Unit Test - MSTest\\FinancialCalculatorTests.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswDUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:16:50.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinCalcTests.cs",
+              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\FinCalcTests.cs",
+              "RelativeDocumentMoniker": "Unit Tests\\FinCalcTests.cs",
+              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\FinCalcTests.cs",
+              "RelativeToolTip": "Unit Tests\\FinCalcTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:16:23.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Unit Tests - NUnit.csproj",
+              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\Unit Tests - NUnit.csproj",
+              "RelativeDocumentMoniker": "Unit Tests\\Unit Tests - NUnit.csproj",
+              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\Unit Tests - NUnit.csproj",
+              "RelativeToolTip": "Unit Tests\\Unit Tests - NUnit.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwA8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-26T11:20:04.797Z",
+              "WhenOpened": "2024-09-26T11:18:42.176Z",
               "EditorCaption": ""
             },
             {
@@ -67,65 +108,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Unit Tests - NUnit",
-              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\Unit Tests - NUnit.csproj",
-              "RelativeDocumentMoniker": "Unit Tests\\Unit Tests - NUnit.csproj",
-              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\Unit Tests - NUnit.csproj",
-              "RelativeToolTip": "Unit Tests\\Unit Tests - NUnit.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-26T11:18:42.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FinancialCalculatorTests.cs",
-              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - xUnit\\FinancialCalculatorTests.cs",
-              "RelativeDocumentMoniker": "Unit Test - xUnit\\FinancialCalculatorTests.cs",
-              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - xUnit\\FinancialCalculatorTests.cs",
-              "RelativeToolTip": "Unit Test - xUnit\\FinancialCalculatorTests.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:26:54.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FinancialCalculatorTests.cs",
-              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - MSTest\\FinancialCalculatorTests.cs",
-              "RelativeDocumentMoniker": "Unit Test - MSTest\\FinancialCalculatorTests.cs",
-              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - MSTest\\FinancialCalculatorTests.cs",
-              "RelativeToolTip": "Unit Test - MSTest\\FinancialCalculatorTests.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAwwDUAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:16:50.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FinCalcTests.cs",
-              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\FinCalcTests.cs",
-              "RelativeDocumentMoniker": "Unit Tests\\FinCalcTests.cs",
-              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Tests\\FinCalcTests.cs",
-              "RelativeToolTip": "Unit Tests\\FinCalcTests.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAAAcwIMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:16:23.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Unit Test - xUnit.csproj",
+              "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - xUnit\\Unit Test - xUnit.csproj",
+              "RelativeDocumentMoniker": "Unit Test - xUnit\\Unit Test - xUnit.csproj",
+              "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\Unit Test - xUnit\\Unit Test - xUnit.csproj",
+              "RelativeToolTip": "Unit Test - xUnit\\Unit Test - xUnit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T11:20:04.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FinancialCalculation.cs",
               "DocumentMoniker": "D:\\2 R\u0026D\\Repo\\UnitTests\\ClassLibrary\\FinancialCalculation.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\FinancialCalculation.cs",
               "ToolTip": "D:\\2 R\u0026D\\Repo\\UnitTests\\ClassLibrary\\FinancialCalculation.cs",
               "RelativeToolTip": "ClassLibrary\\FinancialCalculation.cs",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAmwLsAAAAiAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwEMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T12:09:41.21Z",
               "EditorCaption": ""
