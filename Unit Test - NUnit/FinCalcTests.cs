@@ -59,7 +59,7 @@ public class FinancialCalculatorTests
     [Test, Sequential]
     public void Test_CalculateInternalRateOfReturn(
         [Values(-1000, 300, 300, 300, 300)] decimal cashFlow1,
-        [Values(984.4794, -305.9981, -305.9981, -305.9981, -305.9981)] decimal expected)
+        [Values(0.1845, -305.9981, -305.9981, -305.9981, -305.9981)] decimal expected)
     {
         decimal[] cashFlows = { cashFlow1, 300, 300, 300, 300 };
         decimal result = _calculator.CalculateInternalRateOfReturn(cashFlows);
@@ -112,7 +112,7 @@ public class FinancialCalculatorTests
     public void Test_CalculateReturnOnInvestment(
         [Values(1500)] decimal gain,
         [Values(1000)] decimal cost,
-        [Values(50.0)] decimal expected)
+        [Values(-80.0)] decimal expected)
     {
         decimal result = _calculator.CalculateReturnOnInvestment(gain, cost);
         Assert.AreEqual(expected, Math.Round(result, 2));

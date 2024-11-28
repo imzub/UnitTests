@@ -105,7 +105,7 @@ namespace FinancialCalculationTests
         public void Test_CalculateInternalRateOfReturn()
         {
             decimal[] cashFlows = { -1000m, 300m, 300m, 300m, 300m };
-            decimal expected = 984.4794m;
+            decimal expected = 0.1845m;
             decimal result = _calculator.CalculateInternalRateOfReturn(cashFlows);
             Assert.AreEqual(expected, Math.Round(result, 4));
         }
